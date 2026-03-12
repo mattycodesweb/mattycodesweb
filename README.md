@@ -1,16 +1,32 @@
-## Hi, I'm Matty 👋
+# Hi, I'm Matty 👋
 
-Frontend Developer focused on HTML, CSS, and JavaScript
+Frontend Developer focused on HTML, CSS, and JavaScript.  
 Currently learning React and building projects to grow my portfolio.
 
-## Skills
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+---
 
-## Current Focus
-Building projects and improving my frontend development skills.
+## 🚀 Current Focus
+- Improving my JavaScript skills
+- Learning React
+- Building real-world projects for my portfolio
 
-## GitHub
-https://github.com/mattycodesweb
+---
+
+## 🛠️ Tech Stack
+HTML  
+CSS  
+JavaScript  
+Git  
+GitHub  
+
+---
+
+## 📂 Projects I'm Building
+- Portfolio Website
+- JavaScript To-Do App
+- Weather App (API)
+
+---
+
+## 📫 Connect With Me
+GitHub: https://github.com/mattycodesweb
